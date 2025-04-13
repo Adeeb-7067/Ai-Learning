@@ -1,0 +1,2 @@
+Hello, this is sample text for testing semantic search in Langchain.
+LangChain lets you build apps with language models.
